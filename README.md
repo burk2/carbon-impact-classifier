@@ -1,2 +1,9 @@
-# carbon-impact-classifier
-This project helps users estimate the carbon footprint of daily actions like flying, eating beef, or streaming media. It provides a carbon impact category (Low to Severe), estimated CO₂ emissions, and sustainability advice using a simple rule-based logic system
+# AI Carbon Impact Classifier 🌍
+An AI-powered app that classifies everyday activities or products based on their carbon footprint.
+## What it does
+You enter an activity like “flying to Paris” or “eating beef burger” — the app shows:
+🌡️ Estimated CO₂ emission (in kg)
+🧠 Carbon impact level: Low, Moderate, High, Severe
+💬 A sustainability tip
+
+
